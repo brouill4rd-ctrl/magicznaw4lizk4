@@ -1,0 +1,1092 @@
+[
+  {
+    "id": 1,
+    "name": "Aetonan",
+    "aliases": [],
+    "rarity": "common",
+    "image": "aetonan.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 2,
+    "name": "Akromantula",
+    "aliases": [],
+    "rarity": "common",
+    "image": "akromantula.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 3,
+    "name": "Bagnowyj",
+    "aliases": [],
+    "rarity": "common",
+    "image": "bagnowyj.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 4,
+    "name": "Bahanka",
+    "aliases": [],
+    "rarity": "common",
+    "image": "bahanka.JPG",
+    "enabled": true
+  },
+  {
+    "id": 5,
+    "name": "Bazyliszek",
+    "aliases": [],
+    "rarity": "common",
+    "image": "bazyliszek.JPG",
+    "enabled": true
+  },
+  {
+    "id": 6,
+    "name": "Blotoryj",
+    "aliases": [],
+    "rarity": "common",
+    "image": "blotoryj.JPG",
+    "enabled": true
+  },
+  {
+    "id": 7,
+    "name": "Bogin",
+    "aliases": [],
+    "rarity": "common",
+    "image": "bogin.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 8,
+    "name": "Buchorozec",
+    "aliases": [],
+    "rarity": "common",
+    "image": "buchorozec.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 9,
+    "name": "Bystroduch",
+    "aliases": [],
+    "rarity": "common",
+    "image": "bystroduch.JPG",
+    "enabled": true
+  },
+  {
+    "id": 10,
+    "name": "Caipora",
+    "aliases": [],
+    "rarity": "common",
+    "image": "caipora.JPG",
+    "enabled": true
+  },
+  {
+    "id": 11,
+    "name": "Centaur",
+    "aliases": [],
+    "rarity": "common",
+    "image": "centaur.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 12,
+    "name": "Chimera",
+    "aliases": [],
+    "rarity": "common",
+    "image": "chimera.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 13,
+    "name": "Chinski Ogniomiot",
+    "aliases": [],
+    "rarity": "common",
+    "image": "chinski_ogniomiot.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 14,
+    "name": "Chochlik Kornwalijski",
+    "aliases": [],
+    "rarity": "common",
+    "image": "chochlik_kornwalijski.JPG",
+    "enabled": true
+  },
+  {
+    "id": 15,
+    "name": "Chorbotek",
+    "aliases": [],
+    "rarity": "common",
+    "image": "chorbotek.JPG",
+    "enabled": true
+  },
+  {
+    "id": 16,
+    "name": "Chropianek",
+    "aliases": [],
+    "rarity": "common",
+    "image": "chropianek.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 17,
+    "name": "Ciamarnica",
+    "aliases": [],
+    "rarity": "common",
+    "image": "ciamarnica.JPG",
+    "enabled": true
+  },
+  {
+    "id": 18,
+    "name": "Curupira",
+    "aliases": [],
+    "rarity": "common",
+    "image": "curupira.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 19,
+    "name": "Czarny Hebrydzki",
+    "aliases": [],
+    "rarity": "common",
+    "image": "czarny_hebrydzki.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 20,
+    "name": "Czerwony Kapturek",
+    "aliases": [],
+    "rarity": "common",
+    "image": "czerwony_kapturek.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 21,
+    "name": "Czupakabra",
+    "aliases": [],
+    "rarity": "common",
+    "image": "czupakabra.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 22,
+    "name": "Dementor",
+    "aliases": [],
+    "rarity": "common",
+    "image": "dementor.PNG",
+    "enabled": true
+  },
+  {
+    "id": 23,
+    "name": "Demimoz",
+    "aliases": [],
+    "rarity": "common",
+    "image": "demimoz.PNG",
+    "enabled": true
+  },
+  {
+    "id": 24,
+    "name": "Dirikrak",
+    "aliases": [],
+    "rarity": "common",
+    "image": "dirikrak.JPG",
+    "enabled": true
+  },
+  {
+    "id": 25,
+    "name": "Dlugorog Rumunski",
+    "aliases": [],
+    "rarity": "common",
+    "image": "dlugorog_rumunski.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 26,
+    "name": "Druzgotek",
+    "aliases": [],
+    "rarity": "common",
+    "image": "druzgotek.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 27,
+    "name": "Dukuwaqa",
+    "aliases": [],
+    "rarity": "common",
+    "image": "dukuwaqa.JPG",
+    "enabled": true
+  },
+  {
+    "id": 28,
+    "name": "Dwurozec",
+    "aliases": [],
+    "rarity": "common",
+    "image": "dwurozec.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 29,
+    "name": "Dzin",
+    "aliases": [],
+    "rarity": "common",
+    "image": "dzin.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 30,
+    "name": "Elf",
+    "aliases": [],
+    "rarity": "common",
+    "image": "elf.PNG",
+    "enabled": true
+  },
+  {
+    "id": 31,
+    "name": "Erkling",
+    "aliases": [],
+    "rarity": "common",
+    "image": "erkling.PNG",
+    "enabled": true
+  },
+  {
+    "id": 32,
+    "name": "Feniks",
+    "aliases": [],
+    "rarity": "common",
+    "image": "feniks.PNG",
+    "enabled": true
+  },
+  {
+    "id": 33,
+    "name": "Garborog",
+    "aliases": [],
+    "rarity": "common",
+    "image": "garborog.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 34,
+    "name": "Ghul",
+    "aliases": [],
+    "rarity": "common",
+    "image": "ghul.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 35,
+    "name": "Gnom",
+    "aliases": [],
+    "rarity": "common",
+    "image": "gnom.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 36,
+    "name": "Goblin",
+    "aliases": [],
+    "rarity": "common",
+    "image": "goblin.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 37,
+    "name": "Granian",
+    "aliases": [],
+    "rarity": "common",
+    "image": "granian.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 38,
+    "name": "Gromoptak",
+    "aliases": [],
+    "rarity": "common",
+    "image": "gromoptak.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 39,
+    "name": "Gryf",
+    "aliases": [],
+    "rarity": "common",
+    "image": "gryf.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 40,
+    "name": "Gumochlon",
+    "aliases": [],
+    "rarity": "common",
+    "image": "gumochlon.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 41,
+    "name": "Hipogryf",
+    "aliases": [],
+    "rarity": "common",
+    "image": "hipogryf.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 42,
+    "name": "Hipokampus",
+    "aliases": [],
+    "rarity": "common",
+    "image": "hipokampus.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 43,
+    "name": "Hoo Hoo",
+    "aliases": [],
+    "rarity": "common",
+    "image": "hoo-hoo.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 44,
+    "name": "Abraksan",
+    "aliases": [],
+    "rarity": "common",
+    "image": "abraksan.JPG",
+    "enabled": true
+  },
+  {
+    "id": 45,
+    "name": "Inferius",
+    "aliases": [],
+    "rarity": "common",
+    "image": "inferius.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 46,
+    "name": "Jackalope",
+    "aliases": [],
+    "rarity": "common",
+    "image": "jackalope.JPG",
+    "enabled": true
+  },
+  {
+    "id": 47,
+    "name": "Jednorozec",
+    "aliases": [],
+    "rarity": "common",
+    "image": "jednorozec.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 48,
+    "name": "Jezanka",
+    "aliases": [],
+    "rarity": "common",
+    "image": "jezanka.JPG",
+    "enabled": true
+  },
+  {
+    "id": 49,
+    "name": "Kelpia",
+    "aliases": [],
+    "rarity": "common",
+    "image": "kelpia.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 50,
+    "name": "Kolkokogonek",
+    "aliases": [],
+    "rarity": "common",
+    "image": "kolkokogonek.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 51,
+    "name": "Korniczak",
+    "aliases": [],
+    "rarity": "common",
+    "image": "korniczak.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 52,
+    "name": "Kozlag",
+    "aliases": [],
+    "rarity": "common",
+    "image": "kozlag.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 53,
+    "name": "Krasnolud",
+    "aliases": [],
+    "rarity": "common",
+    "image": "krasnolud.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 54,
+    "name": "Kudlon",
+    "aliases": [],
+    "rarity": "common",
+    "image": "kudlon.PNG",
+    "enabled": true
+  },
+  {
+    "id": 55,
+    "name": "Kuguchar",
+    "aliases": [],
+    "rarity": "common",
+    "image": "kuguchar.PNG",
+    "enabled": true
+  },
+  {
+    "id": 56,
+    "name": "Kwintoped",
+    "aliases": [],
+    "rarity": "common",
+    "image": "kwintoped.JPG",
+    "enabled": true
+  },
+  {
+    "id": 57,
+    "name": "Langustnik Ladaco",
+    "aliases": [],
+    "rarity": "common",
+    "image": "langustnik_ladaco.PNG",
+    "enabled": true
+  },
+  {
+    "id": 58,
+    "name": "Lelek Wrozebnik",
+    "aliases": [],
+    "rarity": "common",
+    "image": "lelek_wrozebnik.PNG",
+    "enabled": true
+  },
+  {
+    "id": 59,
+    "name": "Leprokonus",
+    "aliases": [],
+    "rarity": "common",
+    "image": "leprokonus.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 60,
+    "name": "Leucrotta",
+    "aliases": [],
+    "rarity": "common",
+    "image": "leucrotta.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 61,
+    "name": "Lodowa Salamandra",
+    "aliases": [],
+    "rarity": "common",
+    "image": "lodowa_salamandra.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 62,
+    "name": "Lunaballa",
+    "aliases": [],
+    "rarity": "common",
+    "image": "lunaballa.PNG",
+    "enabled": true
+  },
+  {
+    "id": 63,
+    "name": "Mantykora",
+    "aliases": [],
+    "rarity": "common",
+    "image": "mantykora.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 64,
+    "name": "Marmite",
+    "aliases": [],
+    "rarity": "common",
+    "image": "marmite.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 65,
+    "name": "Matagot",
+    "aliases": [],
+    "rarity": "common",
+    "image": "matagot.JPG",
+    "enabled": true
+  },
+  {
+    "id": 66,
+    "name": "Memortek",
+    "aliases": [],
+    "rarity": "common",
+    "image": "memortek.JPG",
+    "enabled": true
+  },
+  {
+    "id": 67,
+    "name": "Niesmialek",
+    "aliases": [],
+    "rarity": "common",
+    "image": "niesmialek.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 68,
+    "name": "Nimfa Lesna",
+    "aliases": [],
+    "rarity": "common",
+    "image": "nimfa_lesna.JPG",
+    "enabled": true
+  },
+  {
+    "id": 69,
+    "name": "Niuchacz",
+    "aliases": [
+      "Niffler"
+    ],
+    "rarity": "uncommon",
+    "image": "niuchacz.JPG",
+    "enabled": true
+  },
+  {
+    "id": 70,
+    "name": "Norweski Kolczasty",
+    "aliases": [],
+    "rarity": "common",
+    "image": "norweski_kolczasty.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 71,
+    "name": "Nundu",
+    "aliases": [],
+    "rarity": "common",
+    "image": "nundu.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 72,
+    "name": "Ognista Salamandra",
+    "aliases": [],
+    "rarity": "common",
+    "image": "ognista_salamandra.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 73,
+    "name": "Ognisty Krab",
+    "aliases": [],
+    "rarity": "common",
+    "image": "ognisty_krab.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 74,
+    "name": "Olbrzym",
+    "aliases": [],
+    "rarity": "common",
+    "image": "olbrzym.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 75,
+    "name": "Olbrzymia Ropucha Purpurowa",
+    "aliases": [],
+    "rarity": "common",
+    "image": "olbrzymia_ropucha_purpurowa.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 76,
+    "name": "Oni",
+    "aliases": [],
+    "rarity": "common",
+    "image": "oni.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 77,
+    "name": "Opalooki Antypodzki",
+    "aliases": [],
+    "rarity": "common",
+    "image": "opalooki_antypodzki.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 78,
+    "name": "Pikujace Licho",
+    "aliases": [],
+    "rarity": "common",
+    "image": "pikujace_licho.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 79,
+    "name": "Plumpka",
+    "aliases": [],
+    "rarity": "common",
+    "image": "plumpka.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 80,
+    "name": "Pogrebin",
+    "aliases": [],
+    "rarity": "common",
+    "image": "pogrebin.JPG",
+    "enabled": true
+  },
+  {
+    "id": 81,
+    "name": "Poltergeist",
+    "aliases": [],
+    "rarity": "common",
+    "image": "poltergeist.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 82,
+    "name": "Popielek",
+    "aliases": [],
+    "rarity": "uncommon",
+    "image": "popielek.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 83,
+    "name": "Przyczajacz",
+    "aliases": [],
+    "rarity": "uncommon",
+    "image": "przyczajacz.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 84,
+    "name": "Psidwak",
+    "aliases": [],
+    "rarity": "uncommon",
+    "image": "psidwak.JPG",
+    "enabled": true
+  },
+  {
+    "id": 85,
+    "name": "Pufek Tarantowaty",
+    "aliases": [],
+    "rarity": "uncommon",
+    "image": "pufek_tarantowaty.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 86,
+    "name": "Pufek",
+    "aliases": [],
+    "rarity": "uncommon",
+    "image": "pufek.PNG",
+    "enabled": true
+  },
+  {
+    "id": 87,
+    "name": "Pukwudgie",
+    "aliases": [],
+    "rarity": "uncommon",
+    "image": "pukwudgie.JPG",
+    "enabled": true
+  },
+  {
+    "id": 88,
+    "name": "Puszek Pigmejski",
+    "aliases": [],
+    "rarity": "uncommon",
+    "image": "puszek_pigmejski.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 89,
+    "name": "Qilin",
+    "aliases": [],
+    "rarity": "uncommon",
+    "image": "qilin.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 90,
+    "name": "Ramora",
+    "aliases": [],
+    "rarity": "uncommon",
+    "image": "ramora.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 91,
+    "name": "Reem",
+    "aliases": [],
+    "rarity": "uncommon",
+    "image": "reem.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 92,
+    "name": "Rogaty Waz",
+    "aliases": [],
+    "rarity": "uncommon",
+    "image": "rogaty_waz.JPG",
+    "enabled": true
+  },
+  {
+    "id": 93,
+    "name": "Rogogon Wegierski",
+    "aliases": [],
+    "rarity": "uncommon",
+    "image": "rogogon_wegierski.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 94,
+    "name": "Sasabonsam",
+    "aliases": [],
+    "rarity": "uncommon",
+    "image": "sasabonsam.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 95,
+    "name": "Sfinks",
+    "aliases": [],
+    "rarity": "uncommon",
+    "image": "sfinks.JPG",
+    "enabled": true
+  },
+  {
+    "id": 96,
+    "name": "Sklatka Tylnowybuchowa",
+    "aliases": [],
+    "rarity": "uncommon",
+    "image": "sklatka_tylnowybuchowa.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 97,
+    "name": "Skrzat Domowy",
+    "aliases": [],
+    "rarity": "uncommon",
+    "image": "skrzat_domowy.PNG",
+    "enabled": true
+  },
+  {
+    "id": 98,
+    "name": "Smierciotula",
+    "aliases": [],
+    "rarity": "uncommon",
+    "image": "smierciotula.PNG",
+    "enabled": true
+  },
+  {
+    "id": 99,
+    "name": "Smoczognik",
+    "aliases": [],
+    "rarity": "uncommon",
+    "image": "smoczognik.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 100,
+    "name": "Spizobrzuch Ukrainski",
+    "aliases": [],
+    "rarity": "uncommon",
+    "image": "spizobrzuch_ukrainski.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 101,
+    "name": "Swiergotnik",
+    "aliases": [],
+    "rarity": "uncommon",
+    "image": "swiergotnik.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 102,
+    "name": "Szczuroszczet",
+    "aliases": [],
+    "rarity": "uncommon",
+    "image": "szczuroszczet.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 103,
+    "name": "Szpiczak",
+    "aliases": [],
+    "rarity": "uncommon",
+    "image": "szpiczak.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 104,
+    "name": "Szwedzki Krotkopyski",
+    "aliases": [],
+    "rarity": "uncommon",
+    "image": "szwedzki_krotkopyski.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 105,
+    "name": "Szyszymora",
+    "aliases": [],
+    "rarity": "uncommon",
+    "image": "szyszymora.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 106,
+    "name": "Tebo",
+    "aliases": [],
+    "rarity": "uncommon",
+    "image": "tebo.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 107,
+    "name": "Testral",
+    "aliases": [],
+    "rarity": "uncommon",
+    "image": "testral.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 108,
+    "name": "Toksyczek",
+    "aliases": [],
+    "rarity": "uncommon",
+    "image": "toksyczek.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 109,
+    "name": "Topek",
+    "aliases": [],
+    "rarity": "uncommon",
+    "image": "topek.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 110,
+    "name": "Traszka Dwuogonowa",
+    "aliases": [],
+    "rarity": "uncommon",
+    "image": "traszka_dwuogonowa.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 111,
+    "name": "Troll",
+    "aliases": [],
+    "rarity": "uncommon",
+    "image": "troll.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 112,
+    "name": "Trutniowiec Krwiopijca",
+    "aliases": [],
+    "rarity": "uncommon",
+    "image": "trutniowiec_krwiopijca.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 113,
+    "name": "Tryton",
+    "aliases": [],
+    "rarity": "uncommon",
+    "image": "tryton.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 114,
+    "name": "Trzminorek",
+    "aliases": [],
+    "rarity": "uncommon",
+    "image": "trzminorek.JPG",
+    "enabled": true
+  },
+  {
+    "id": 115,
+    "name": "Trzyglowy Pies",
+    "aliases": [],
+    "rarity": "uncommon",
+    "image": "trzyglowy_pies.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 116,
+    "name": "Walijski Zielony",
+    "aliases": [],
+    "rarity": "rare",
+    "image": "walijski_zielony.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 117,
+    "name": "Wampir",
+    "aliases": [],
+    "rarity": "rare",
+    "image": "wampir.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 118,
+    "name": "Wampus",
+    "aliases": [],
+    "rarity": "rare",
+    "image": "wampus.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 119,
+    "name": "Waz Morski",
+    "aliases": [],
+    "rarity": "rare",
+    "image": "waz_morski.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 120,
+    "name": "Widlowaz",
+    "aliases": [],
+    "rarity": "rare",
+    "image": "widlowaz.PNG",
+    "enabled": true
+  },
+  {
+    "id": 121,
+    "name": "Wiedzma",
+    "aliases": [],
+    "rarity": "rare",
+    "image": "wiedzma.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 122,
+    "name": "Wielki Nawalnik Burzowy",
+    "aliases": [],
+    "rarity": "rare",
+    "image": "wielki_nawalnik_burzowy.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 123,
+    "name": "Wila",
+    "aliases": [],
+    "rarity": "rare",
+    "image": "wila.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 124,
+    "name": "Wilkolak",
+    "aliases": [],
+    "rarity": "rare",
+    "image": "wilkolak.PNG",
+    "enabled": true
+  },
+  {
+    "id": 125,
+    "name": "Wiwern",
+    "aliases": [],
+    "rarity": "rare",
+    "image": "wiwern.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 126,
+    "name": "Wodnik Kappa",
+    "aliases": [],
+    "rarity": "rare",
+    "image": "wodnik_kappa.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 127,
+    "name": "Wozak",
+    "aliases": [],
+    "rarity": "rare",
+    "image": "wozak.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 128,
+    "name": "Wsiakiewka",
+    "aliases": [],
+    "rarity": "rare",
+    "image": "wsiakiewka.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 129,
+    "name": "Yeti",
+    "aliases": [],
+    "rarity": "rare",
+    "image": "yeti.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 130,
+    "name": "Zabert",
+    "aliases": [],
+    "rarity": "epic",
+    "image": "zabert.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 131,
+    "name": "Zadlibak",
+    "aliases": [],
+    "rarity": "epic",
+    "image": "zadlibak.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 132,
+    "name": "Zmijoptak",
+    "aliases": [],
+    "rarity": "epic",
+    "image": "zmijoptak.PNG",
+    "enabled": true
+  },
+  {
+    "id": 133,
+    "name": "Zmijozab Peruwianski",
+    "aliases": [],
+    "rarity": "epic",
+    "image": "zmijozab_peruwianski.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 134,
+    "name": "Znikacz",
+    "aliases": [],
+    "rarity": "epic",
+    "image": "znikacz.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 135,
+    "name": "Zouwu",
+    "aliases": [],
+    "rarity": "legendary",
+    "image": "zouwu.WEBP",
+    "enabled": true
+  },
+  {
+    "id": 136,
+    "name": "Zwodnik",
+    "aliases": [],
+    "rarity": "mythical",
+    "image": "zwodnik.WEBP",
+    "enabled": true
+  }
+]
